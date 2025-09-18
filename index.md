@@ -84,3 +84,10 @@ layout: default
 
 　　**最后说一句**：选择哪家运营商，其实更像选择一种性格。没有绝对的好坏，只有是否适合当下的你。希望这份指南能帮你扫清障碍，让网络不再是旅行的阻碍，而是你探索这个美丽国度的得力助手。祝你在白俄罗斯的每一刻，都能顺畅连接，分享快乐。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Belarus eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/belarus-data-plans)
